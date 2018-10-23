@@ -5,7 +5,8 @@ paneer
 kheer
 Chicken
 
-
+pizza
+pasta
 
 
 Thank You!
